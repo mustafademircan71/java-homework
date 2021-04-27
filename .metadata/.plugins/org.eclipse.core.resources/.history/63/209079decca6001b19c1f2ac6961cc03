@@ -1,0 +1,10 @@
+
+public class BusinessClass {
+	public void addToStudent(Student student) {
+		System.out.println(student.name+"Baþarýyla Kayýt Yapýldý");
+	}
+	public void addToCourse(Course course) {
+		System.out.println(course.courseName+" Baþarýyla Eklendi");
+	}
+	
+}
